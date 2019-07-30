@@ -1,3 +1,6 @@
 [submodule "lambda2"]
 	path = lambda2
 	url = https://github.com/subaprad/lambda2
+[submodule "lambda3"]
+	path = lambda3
+	url = https://github.com/subaprad/lambda3
