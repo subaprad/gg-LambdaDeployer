@@ -1,0 +1,3 @@
+[submodule "lambda2"]
+	path = lambda2
+	url = https://github.com/subaprad/lambda2
